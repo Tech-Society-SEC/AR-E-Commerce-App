@@ -14,7 +14,7 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 ## 👨‍💻 Team Members
 - **Hafeezul Deen S** – 212223220028 – 3D AR Model & Unity Development  
 - **Priyan V** – 212224230211 – Frontend Design  
-- **Ragul KR** – 212224240123 – Integration & Testing  
+- **Ragul KR** – 212224240123 – Integration & Testing . 
 
 ---
 
