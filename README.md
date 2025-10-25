@@ -62,7 +62,7 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 ### Week 2 [20.10.2025]
 
 #### ✅ **Key Accomplishments**
-![WhatsApp Image 2025-10-25 at 04 38 43_00e3d38d](https://github.com/user-attachments/assets/60bdc94a-97c6-4858-85e0-3c42e33b94fe)
+
 Work Done in Figma
 
 Designed a furniture shopping app (mobile view).
@@ -82,13 +82,17 @@ Used the Brandfetch plugin to add brand assets.
 Followed a dark theme with pink highlights.
 
 Organized all screens neatly and named them clearly.
- 
+![WhatsApp Image 2025-10-25 at 04 38 43_2b246bcf](https://github.com/user-attachments/assets/b7d11c3d-f152-451b-bc48-029c8a93545e)
+![WhatsApp Image 2025-10-25 at 04 38 43_574efaae](https://github.com/user-attachments/assets/086110e5-896d-4bcc-a194-e590ab2f0180)
+![WhatsApp Image 2025-10-25 at 04 38 43_434075b8](https://github.com/user-attachments/assets/eb6e791a-13cb-43af-89d2-af78e673bd43)
+![WhatsApp Image 2025-10-25 at 04 38 44_5968a19f](https://github.com/user-attachments/assets/be1b2f1e-fe47-4dc8-b2eb-7ae0abaab3d4)
+![WhatsApp Image 2025-10-25 at 04 38 45_134b5ff0](https://github.com/user-attachments/assets/cb509905-5b62-4e22-b1db-e8a5d2923083)
 
 
 #### 👥 **Team Contributions**
-- **Hafeezul Deen S:** [Contribution]  
-- **Priyan V:** [Contribution]  
-- **Ragul KR:** [Contribution]  
+- **Hafeezul Deen S:**  
+- **Priyan V:** 
+- **Ragul KR:**  
 
 **📸 Screenshot:**  
 ![Day 2 Progress](YOUR_IMAGE_LINK)
