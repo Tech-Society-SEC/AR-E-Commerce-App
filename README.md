@@ -59,17 +59,31 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 
 ---
 
-### 🗓 **Day 02 – [Enter Date]**
+### Week 2 [20.10.2025]
 
 #### ✅ **Key Accomplishments**
-- [Describe work done 1]  
-- [Describe work done 2]  
-- [Describe work done 3]  
+![WhatsApp Image 2025-10-25 at 04 38 43_00e3d38d](https://github.com/user-attachments/assets/60bdc94a-97c6-4858-85e0-3c42e33b94fe)
+Work Done in Figma
 
-#### 🎯 **Goals for Next Week**
-- [Goal 1]  
-- [Goal 2]  
-- [Goal 3]  
+Designed a furniture shopping app (mobile view).
+
+Created pages — Home, Product, Payment, and Success.
+
+Used a grid layout for proper alignment.
+
+Added buttons, product cards, and text fields as components.
+
+Linked pages together for prototype flow (from browsing to payment).
+
+Used Material 3 and iOS UI kits for design.
+
+Used the Brandfetch plugin to add brand assets.
+
+Followed a dark theme with pink highlights.
+
+Organized all screens neatly and named them clearly.
+ 
+
 
 #### 👥 **Team Contributions**
 - **Hafeezul Deen S:** [Contribution]  
