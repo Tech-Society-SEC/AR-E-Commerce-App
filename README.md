@@ -31,9 +31,8 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 
 ---
 
-## 📅 Week 1 (Day 1 & Day 2 – [Month YYYY])
+## 📅 Week 1 (08 oct - 14 oct [2005])
 
-### 🗓 **Day 01 – [Enter Date]**
 
 #### ✅ **Key Accomplishments**
 - Installed Unity and created a new 3D project.
