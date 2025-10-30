@@ -58,50 +58,49 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 
 ---
 
-### Week 2 [20.10.2025]
+## 📅 Week 2 (15 Oct – 22 Oct 2025)
 
 #### ✅ **Key Accomplishments**
+- Designed the **UI mockup** for the AR furniture shopping app in **Figma**.  
+- Created multiple screens: Home, Product Detail, Payment, and Order Success pages to visualize the shopping flow.  
+- Experimented with **Material 3 Design Kit** for consistency and responsiveness across mobile interfaces.  
+- Linked navigation flow between screens to simulate user journey.  
+- Reviewed and finalized the basic **color palette and layout grid system** for mobile orientation.  
 
-Work Done in Figma
-
-Designed a furniture shopping app (mobile view).
-
-Created pages — Home, Product, Payment, and Success.
-
-Used a grid layout for proper alignment.
-
-Added buttons, product cards, and text fields as components.
-
-Linked pages together for prototype flow (from browsing to payment).
-
-Used Material 3 and iOS UI kits for design.
-
-Used the Brandfetch plugin to add brand assets.
-
-Followed a dark theme with pink highlights.
-
-Organized all screens neatly and named them clearly.
-![WhatsApp Image 2025-10-25 at 04 38 43_2b246bcf](https://github.com/user-attachments/assets/b7d11c3d-f152-451b-bc48-029c8a93545e)
-![WhatsApp Image 2025-10-25 at 04 38 43_574efaae](https://github.com/user-attachments/assets/086110e5-896d-4bcc-a194-e590ab2f0180)
-![WhatsApp Image 2025-10-25 at 04 38 43_434075b8](https://github.com/user-attachments/assets/eb6e791a-13cb-43af-89d2-af78e673bd43)
-![WhatsApp Image 2025-10-25 at 04 38 44_5968a19f](https://github.com/user-attachments/assets/be1b2f1e-fe47-4dc8-b2eb-7ae0abaab3d4)
-![WhatsApp Image 2025-10-25 at 04 38 45_134b5ff0](https://github.com/user-attachments/assets/cb509905-5b62-4e22-b1db-e8a5d2923083)
-
+#### 🎯 **Goals for Next Week**
+- Connect Unity’s AR scene with the app’s interface design flow.  
+- Integrate product catalog data into Unity prefabs.  
+- Test UI responsiveness and refine alignment with AR models.  
 
 #### 👥 **Team Contributions**
-- **Hafeezul Deen S:**  
-- **Priyan V:** 
-- **Ragul KR:**  
+- **Hafeezul Deen S:** Finalized Figma demo layout, explored Material 3 kit for consistency, and managed asset structure.  
+- **Priyan V:** Created interactive prototype connections between pages.  
+- **Ragul KR:** Tested design import possibilities and suggested minor layout adjustments.  
 
-**📸 Screenshot:**  
-![Day 2 Progress](YOUR_IMAGE_LINK)
+![505647177-b7d11c3d-f152-451b-bc48-029c8a93545e](https://github.com/user-attachments/assets/84012804-8fe3-4cef-91b0-64093307d4c8)
 
 ---
 
-## 📱 Upcoming Tasks
-- [Task 1]  
-- [Task 2]  
-- [Task 3]  
+## 📅 Week 3 (23 Oct – 29 Oct 2025)
+
+#### ✅ **Key Accomplishments**
+- Successfully tested **AR object placement** on a physical surface using the mobile device.  
+- Verified accurate **plane detection** and realistic object scaling through AR Foundation.  
+- Tested furniture models’ appearance in real-world lighting using the **AR Camera** on Android.  
+- Fixed anchor stability issues and ensured the 3D models remained properly positioned after camera movement.  
+- Captured the **first live AR test** (object placed in user environment).  
+
+#### 🎯 **Goals for Next Week**
+- Improve object texture quality and lighting reflections.  
+- Begin developing UI–AR integration (placing furniture directly from product page).  
+- Test app on different Android models for ARCore compatibility.  
+
+#### 👥 **Team Contributions**
+- **Hafeezul Deen S:** Mobile AR deployment and live testing of object placement.  
+- **Priyan V:** Observed AR performance, documented test feedback.  
+- **Ragul KR:** Assisted in build configuration and ensured ARCore compatibility.  
+
+![WhatsApp Image 2025-10-30 at 12 45 51_8e578792](https://github.com/user-attachments/assets/b53df2b8-b54a-4c5b-979c-4b122899ef0d)
 
 ---
 
