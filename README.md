@@ -73,10 +73,8 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 - Test UI responsiveness and refine alignment with AR models.  
 
 #### 👥 **Team Contributions**
-- **Hafeezul Deen S:** Finalized Figma demo layout, explored Material 3 kit for consistency, and managed asset structure.  
-- **Priyan V:** Created interactive prototype connections between pages.  
-- **Ragul KR:** Tested design import possibilities and suggested minor layout adjustments.  
 
+Frontend Demo
 ![505647177-b7d11c3d-f152-451b-bc48-029c8a93545e](https://github.com/user-attachments/assets/84012804-8fe3-4cef-91b0-64093307d4c8)
 
 ---
@@ -101,6 +99,29 @@ To develop an **interactive AR furniture visualization system** using Unity and 
 - **Ragul KR:** Assisted in build configuration and ensured ARCore compatibility.  
 
 ![WhatsApp Image 2025-10-30 at 12 45 51_8e578792](https://github.com/user-attachments/assets/b53df2b8-b54a-4c5b-979c-4b122899ef0d)
+
+
+## Week 4
+Product selection screen
+<img width="454" height="568" alt="image" src="https://github.com/user-attachments/assets/db9ebd9c-43bb-40a4-beda-e2572e73c815" />
+
+
+
+## week 5
+Product Page : Details scene hold Ar Button
+<img width="520" height="523" alt="image" src="https://github.com/user-attachments/assets/b65a17c6-93f7-4c7d-bf70-d85d3670f00c" />
+
+
+## Week 6
+Creating Ar Surface plane (Yellow plane)
+<img width="513" height="515" alt="image" src="https://github.com/user-attachments/assets/a7ac25d3-1955-4f4d-80a2-6c0ed15db773" />
+we can place the object in that yellow surface plane
+
+
+## week 7
+AR View Of product(Lamp)
+<img width="513" height="518" alt="image" src="https://github.com/user-attachments/assets/1c132c39-1341-477e-9584-efa2ce4dfa8f" />
+
 
 ---
 
