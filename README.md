@@ -103,23 +103,28 @@ Frontend Demo
 
 ## Week 4
 Product selection screen
+
 <img width="454" height="568" alt="image" src="https://github.com/user-attachments/assets/db9ebd9c-43bb-40a4-beda-e2572e73c815" />
 
 
 
 ## week 5
 Product Page : Details scene hold Ar Button
+
 <img width="520" height="523" alt="image" src="https://github.com/user-attachments/assets/b65a17c6-93f7-4c7d-bf70-d85d3670f00c" />
 
 
 ## Week 6
 Creating Ar Surface plane (Yellow plane)
+
 <img width="513" height="515" alt="image" src="https://github.com/user-attachments/assets/a7ac25d3-1955-4f4d-80a2-6c0ed15db773" />
+
 we can place the object in that yellow surface plane
 
 
 ## week 7
 AR View Of product(Lamp)
+
 <img width="513" height="518" alt="image" src="https://github.com/user-attachments/assets/1c132c39-1341-477e-9584-efa2ce4dfa8f" />
 
 
